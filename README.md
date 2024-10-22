@@ -23,4 +23,5 @@ A curated repository of resources for learning French.
 * [Tex's French Grammar](https://www.laits.utexas.edu/tex/index.html)
 * [francaisfacile.com](https://www.francaisfacile.com/)
 * [dicteeinteractive.fr](https://www.dicteeinteractive.fr/)
+* [Lingolia French](https://francais.lingolia.com/en/)
 
