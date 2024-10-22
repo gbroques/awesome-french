@@ -15,4 +15,5 @@ A curated repository of resources for learning French.
 ## Websites
 
 * [Lawless French](https://www.lawlessfrench.com/) - French lessons and language tools from Laura K Lawless.
+* [Tex's French Grammar](https://www.laits.utexas.edu/tex/index.html)
 
