@@ -4,6 +4,10 @@ A curated repository of resources for learning French.
 
 * [Pronunciation](./pronunciation.md)
 
+## Video
+
+* [French Speaking YouTubers Google Doc](https://docs.google.com/document/d/1Wlp7ZJKD-AjDLQi3EyZ_bkBZ6GKYOqqZhmTtFtD2PTQ/edit?usp=sharing)
+
 ## Audio
 
 * [Language Transfer: French](https://www.languagetransfer.org/french) - Free audio course for beginners using the '*thinking method*' — a question and answer format based on the [socratic method](https://en.wikipedia.org/wiki/Socratic_method).
