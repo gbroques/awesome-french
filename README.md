@@ -12,6 +12,7 @@ A curated repository of resources for learning French.
 * [French Comprehensible Input](https://www.youtube.com/@FrenchComprehensibleInput)
 * [French Facile](https://www.youtube.com/@FrenchFacile12)
 * [French mornings with Elisa](https://www.youtube.com/@FrenchmorningswithElisa)
+* [French pronunciation with Nastya](https://www.youtube.com/@french.pronunciation)
 
 ## Audio
 
