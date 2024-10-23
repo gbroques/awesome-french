@@ -75,6 +75,7 @@ The French /u/ is a little more back and rounded than English /u/.
 * [Fluent Forever - How to pronounce the French L (for English speakers)](https://www.youtube.com/watch?v=o061neN8qvk)
 * [Fluent Forever - French Vowels](https://www.youtube.com/watch?v=dbyKzUM9H5c)
 * [Fluent Forever - A Few Spelling Rules](https://www.youtube.com/watch?v=sSkNXuwFRl0)
+* [French pronunciation the scientific way using International Phonetic Alphabet (IPA) & Vowel Chart](https://www.youtube.com/live/ZgNZM0ppWs8?si=QfNev9mRw73h4u4d)
 * [FrenchPod101 - Learn French Pronunciation in 12 Minutes](https://www.youtube.com/watch?v=4PvBkp-4bmc)
 * [French Pronunciation Course](https://www.youtube.com/playlist?list=PL_bt5rj27IIURNkDOqtNfyM9JclJPdwsh)
 
