@@ -8,13 +8,10 @@ For English speakers, French requires learning 3 consonant sounds and 10 vowel s
 
 The 3 new consonants sounds for English speakers in French are the:
 
-1. ɲ - [voiced palatal nasal](https://en.wikipedia.org/wiki/Voiced_palatal_nasal)
-2. ɥ - [voiced labial-palatal approximant](https://en.wikipedia.org/wiki/Voiced_labial%E2%80%93palatal_approximant)
-3. ʁ - [Uvular r](https://en.wikipedia.org/wiki/Guttural_R) [with four different](https://youtu.be/hI2Pso1dDjM?t=728) [allophones](https://en.wikipedia.org/wiki/Allophone):
-  * Trill
-  * [Voiced Fricative](https://en.wikipedia.org/wiki/Voiced_uvular_fricative) (**most common in Paris**)
-  * Approximate
-  * Voiceless Fricative
+1. [voiced palatal nasal](https://en.wikipedia.org/wiki/Voiced_palatal_nasal) /ɲ/
+2. [voiced labial-palatal approximant](https://en.wikipedia.org/wiki/Voiced_labial%E2%80%93palatal_approximant) /ɥ/
+3. [Uvular r](https://en.wikipedia.org/wiki/Guttural_R) /ʁ/
+   * with four different [allophones](https://en.wikipedia.org/wiki/Allophone), but the [voiced uvular fricative](https://en.wikipedia.org/wiki/Voiced_uvular_fricative) is the most common in Paris. See [this video](https://youtu.be/hI2Pso1dDjM?t=728) for a demonstration of the four allophones.
 
 Additionally, there are slight changes to p, k, t, and l.
 
