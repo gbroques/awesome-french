@@ -24,4 +24,5 @@ A curated repository of resources for learning French.
 * [francaisfacile.com](https://www.francaisfacile.com/)
 * [dicteeinteractive.fr](https://www.dicteeinteractive.fr/)
 * [Lingolia French](https://francais.lingolia.com/en/)
+* [Francais Facile](https://francaisfacile.rfi.fr/fr/)
 
