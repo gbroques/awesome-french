@@ -11,6 +11,7 @@ A curated repository of resources for learning French.
 * [Learn French With Stories](https://www.youtube.com/@Maintenant_ou_jamais)
 * [French Comprehensible Input](https://www.youtube.com/@FrenchComprehensibleInput)
 * [French Facile](https://www.youtube.com/@FrenchFacile12)
+* [French mornings with Elisa](https://www.youtube.com/@FrenchmorningswithElisa)
 
 ## Audio
 
