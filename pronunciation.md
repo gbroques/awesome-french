@@ -83,3 +83,5 @@ The below picture is a comparison of French and English vowels.
 ## Articles
 
 * [French phonology](https://en.wikipedia.org/wiki/French_phonology)
+* [Duolingo Blog: How to Pronounce French](https://blog.duolingo.com/how-to-pronounce-french/)
+
