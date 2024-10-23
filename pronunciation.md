@@ -54,6 +54,10 @@ Nasal vowels:
 
 The French /u/ is a little more back and rounded than English /u/.
 
+The below picture is a comparison of French and English vowels.
+
+![French vs. English vowels](./english-vs-french-vowels.png)
+
 ## Spelling Rules
 
 1. Most final consonants are silent except for the consonants in "careful" (C-R-F-L).
