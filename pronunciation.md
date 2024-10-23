@@ -77,3 +77,7 @@ The French /u/ is a little more back and rounded than English /u/.
 * [Fluent Forever - A Few Spelling Rules](https://www.youtube.com/watch?v=sSkNXuwFRl0)
 * [FrenchPod101 - Learn French Pronunciation in 12 Minutes](https://www.youtube.com/watch?v=4PvBkp-4bmc)
 * [French Pronunciation Course](https://www.youtube.com/playlist?list=PL_bt5rj27IIURNkDOqtNfyM9JclJPdwsh)
+
+## Articles
+
+* [French phonology](https://en.wikipedia.org/wiki/French_phonology)
