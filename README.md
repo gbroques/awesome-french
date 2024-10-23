@@ -13,6 +13,7 @@ A curated repository of resources for learning French.
 * [French Facile](https://www.youtube.com/@FrenchFacile12)
 * [French mornings with Elisa](https://www.youtube.com/@FrenchmorningswithElisa)
 * [French pronunciation with Nastya](https://www.youtube.com/@french.pronunciation)
+* [FluentU French](https://www.youtube.com/@fluentufrench)
 
 ## Audio
 
