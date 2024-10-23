@@ -9,6 +9,7 @@ A curated repository of resources for learning French.
 * [Easy French](https://www.youtube.com/@easyfrench)
 * [French Speaking YouTubers Google Doc](https://docs.google.com/document/d/1Wlp7ZJKD-AjDLQi3EyZ_bkBZ6GKYOqqZhmTtFtD2PTQ/edit?usp=sharing)
 * [Learn French With Stories](https://www.youtube.com/@Maintenant_ou_jamais)
+* [French Comprehensible Input](https://www.youtube.com/@FrenchComprehensibleInput)
 
 ## Audio
 
