@@ -33,3 +33,8 @@ A curated repository of resources for learning French.
 * [Lingolia French](https://francais.lingolia.com/en/)
 * [Francais Facile](https://francaisfacile.rfi.fr/fr/)
 
+## Keyboard Layouts
+
+* [Bepo](https://bepo.fr/) - ergonomic French keyboard layout. See the below websites to practice:
+   * [dactylotest](http://dactylotest.free.fr/)
+   * [bépoète](https://xn--bpote-6rae.fr/)
