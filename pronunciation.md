@@ -26,25 +26,25 @@ Also in French, /l/ brings only the front of the tongue to the roof of the mouth
 The 10 new consonants sounds for English speakers in French are:
 
 1. a - [open front unrounded vowel](https://en.wikipedia.org/wiki/Open_front_unrounded_vowel)
-  * Start with "father" /fɑðɚ/ and move tongue 25% up and forward towards "fat" /fæt/.
+   * Start with "father" /fɑðɚ/ and move tongue 25% up and forward towards "fat" /fæt/.
   ![french /a/ sound](./french-a-sound.png)
 2. e - [close-mid front unrounded vowel](https://en.wikipedia.org/wiki/Close-mid_front_unrounded_vowel)
-  * Start with "put" /pʊt/ and go a little farther than "pit" /pɪt/.
+   * Start with "put" /pʊt/ and go a little farther than "pit" /pɪt/.
   ![french /e/ sound](./french-e-sound.png)
 3. o - [close-mid back rounded vowel](https://en.wikipedia.org/wiki/Close-mid_back_rounded_vowel)
-  * ![french /o/ sound](./french-o-sound.png)
+   * ![french /o/ sound](./french-o-sound.png)
 
 Rounded vowels:
 
 4. y - [close front rounded vowel](https://en.wikipedia.org/wiki/Close_front_rounded_vowel)
-  * Start with /i/, round lips and let tongue naturally move back a bit.
+   * Start with /i/, round lips and let tongue naturally move back a bit.
 5. œ - [open-mid front rounded vowel](https://en.wikipedia.org/wiki/Open-mid_front_rounded_vowel)
-  * Start with "bet" /bɛt/, round lips and let tongue naturally move back a bit.
+   * Start with "bet" /bɛt/, round lips and let tongue naturally move back a bit.
 6. ɔ - [open-mid back rounded vowel](https://en.wikipedia.org/wiki/Open-mid_back_rounded_vowel)
-  * Start with English "pot" /pɔt/ and let tongue come 25% towards "pet" /pɛt/.
-  * Alternatively, start with "uh", round lips and let tongue naturally move back a bit.
+   * Start with English "pot" /pɔt/ and let tongue come 25% towards "pet" /pɛt/.
+   * Alternatively, start with "uh", round lips and let tongue naturally move back a bit.
 7. ø - [close-mid front rounded vowel](https://en.wikipedia.org/wiki/Close-mid_front_rounded_vowel)
-  * Start with "pit" /pɪt/, round lips and let tongue naturally move back a bit.
+   * Start with "pit" /pɪt/, round lips and let tongue naturally move back a bit.
 
 Nasal vowels:
 
@@ -59,11 +59,11 @@ The French /u/ is a little more back and rounded than English /u/.
 1. Most final consonants are silent except for the consonants in "careful" (C-R-F-L).
 2. Rule of [liasons](https://en.wikipedia.org/wiki/Liaison_(French)) - certain silent final consonants are pronunced based on rules such as grammar.
 3. Hard and soft c, g, sc
-  * Use hard pronunciation when followed by *a*, *o*, *u*, or another consonant.
-  * Use soft pronunciation when followed by *i*, *e*, or *y*.
+   * Use hard pronunciation when followed by *a*, *o*, *u*, or another consonant.
+   * Use soft pronunciation when followed by *i*, *e*, or *y*.
 4. Normally 'n' and 'm' are silent and indicate nasal vowels, but 'n' and 'm' sounds occur in two scenarios:
-  1. when 'n' and 'm' are before vowels (such as animal) 
-  2. or when two 'n's or 'm's occur in a row (such as anniversaire)
+   1. when 'n' and 'm' are before vowels (such as animal) 
+   2. or when two 'n's or 'm's occur in a row (such as anniversaire)
 
 ## Videos
 
