@@ -25,36 +25,36 @@ Also in French, /l/ brings only the front of the tongue to the roof of the mouth
 
 The 10 new consonants sounds for English speakers in French are:
 
-1. a - [open front unrounded vowel](https://en.wikipedia.org/wiki/Open_front_unrounded_vowel)
+1. [open front unrounded vowel](https://en.wikipedia.org/wiki/Open_front_unrounded_vowel) - /a/
    * Start with "father" /fɑðɚ/ and move tongue 25% up and forward towards "fat" /fæt/.
   ![french /a/ sound](./french-a-sound.png)
-2. e - [close-mid front unrounded vowel](https://en.wikipedia.org/wiki/Close-mid_front_unrounded_vowel)
+2. [close-mid front unrounded vowel](https://en.wikipedia.org/wiki/Close-mid_front_unrounded_vowel) - /e/
    * Start with "put" /pʊt/ and go a little farther than "pit" /pɪt/.
   ![french /e/ sound](./french-e-sound.png)
-3. o - [close-mid back rounded vowel](https://en.wikipedia.org/wiki/Close-mid_back_rounded_vowel)
+3. [close-mid back rounded vowel](https://en.wikipedia.org/wiki/Close-mid_back_rounded_vowel) - /o/
    * ![french /o/ sound](./french-o-sound.png)
 
 Rounded vowels:
 
-4. y - [close front rounded vowel](https://en.wikipedia.org/wiki/Close_front_rounded_vowel)
+4. [close front rounded vowel](https://en.wikipedia.org/wiki/Close_front_rounded_vowel) - /y/
    * Start with /i/, round lips and let tongue naturally move back a bit.
 5. œ - [open-mid front rounded vowel](https://en.wikipedia.org/wiki/Open-mid_front_rounded_vowel)
    * Start with "bet" /bɛt/, round lips and let tongue naturally move back a bit.
-6. ɔ - [open-mid back rounded vowel](https://en.wikipedia.org/wiki/Open-mid_back_rounded_vowel)
+6. [open-mid back rounded vowel](https://en.wikipedia.org/wiki/Open-mid_back_rounded_vowel) - /ɔ/
    * Start with English "pot" /pɔt/ and let tongue come 25% towards "pet" /pɛt/.
    * Alternatively, start with "uh", round lips and let tongue naturally move back a bit.
-7. ø - [close-mid front rounded vowel](https://en.wikipedia.org/wiki/Close-mid_front_rounded_vowel)
+7. [close-mid front rounded vowel](https://en.wikipedia.org/wiki/Close-mid_front_rounded_vowel) - /ø/
    * Start with "pit" /pɪt/, round lips and let tongue naturally move back a bit.
 
 Nasal vowels:
 
-8. ã - open front unrounded nasal vowel
-9. ɛ̃ - open-mid front unrounded nasal vowel
-10. ɔ̃ - open-mid back rounded nasal vowel
+8. open front unrounded nasal vowel - /ã/
+9. open-mid front unrounded nasal vowel - /ɛ̃/
+10. open-mid back rounded nasal vowel - /ɔ̃/
 
-The French /u/ is a little more back and rounded than English /u/.
+Additionally, the French /u/ is a little more back and rounded than English /u/.
 
-The below picture is a comparison of French and English vowels.
+Lastly, the below picture is a comparison of French and English vowels.
 
 ![French vs. English vowels](./english-vs-french-vowels.png)
 
