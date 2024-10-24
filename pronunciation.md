@@ -1,6 +1,6 @@
 # Pronunciation
 
-For English speakers, French requires learning 3 consonant sounds and 10 vowel sounds.
+For English speakers, French requires learning new 3 consonant sounds and new 10 vowel sounds.
 
 ![3 consonant sounds and 10 vowel sounds](./3-consonant-sounds-and-10-vowel-sounds.png)
 
