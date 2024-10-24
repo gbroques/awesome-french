@@ -30,6 +30,8 @@ The 10 new consonants sounds for English speakers in French are:
   ![french /a/ sound](./french-a-sound.png)
 2. [close-mid front unrounded vowel](https://en.wikipedia.org/wiki/Close-mid_front_unrounded_vowel) - /e/
    * Start with "put" /pʊt/ and go a little farther than "pit" /pɪt/.
+   * **Letters:** -é, -ée, -er, -ez, -es (in one-syllable words)
+   * **Examples:** fermé, musée, parler, parlez, les
   ![french /e/ sound](./french-e-sound.png)
 3. [close-mid back rounded vowel](https://en.wikipedia.org/wiki/Close-mid_back_rounded_vowel) - /o/
    * **English:** "o" as in "no" /noʊ/, but without the /ʊ/ at the end.
