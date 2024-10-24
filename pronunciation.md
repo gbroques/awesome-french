@@ -78,6 +78,10 @@ The below picture is a comparison of French and English vowels.
 * [Fluent Forever - A Few Spelling Rules](https://www.youtube.com/watch?v=sSkNXuwFRl0)
 * [French pronunciation the scientific way using International Phonetic Alphabet (IPA) & Vowel Chart](https://www.youtube.com/live/ZgNZM0ppWs8?si=QfNev9mRw73h4u4d)
 * [FrenchPod101 - Learn French Pronunciation in 12 Minutes](https://www.youtube.com/watch?v=4PvBkp-4bmc)
+* [Coffee Break French - Mastering French vowel sounds: 'ou' and 'u' made easy](https://coffeebreaklanguages.com/2023/10/mastering-french-vowel-sounds-ou-and-u-made-easy/)
+* [Coffee Break French - Mastering French pronunciation: a comprehensive guide to the letter 'e'](https://coffeebreaklanguages.com/2023/11/mastering-french-pronunciation-a-comprehensive-guide-to-the-letter-e/)
+* [Coffee Break French - A guide to liaisons in French](https://coffeebreaklanguages.com/2024/07/a-guide-to-liaisons-in-french/)
+* [Coffee Break French - French liaison rules: when not to make the liaison](https://coffeebreaklanguages.com/2024/07/french-liaison-rules-when-not-to-make-the-liaison/)
 * [French Pronunciation Course Playlist](https://www.youtube.com/playlist?list=PL_bt5rj27IIURNkDOqtNfyM9JclJPdwsh)
 
 ## Articles
