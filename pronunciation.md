@@ -32,12 +32,15 @@ The 10 new consonants sounds for English speakers in French are:
    * Start with "put" /pʊt/ and go a little farther than "pit" /pɪt/.
   ![french /e/ sound](./french-e-sound.png)
 3. [close-mid back rounded vowel](https://en.wikipedia.org/wiki/Close-mid_back_rounded_vowel) - /o/
+   * **English:** "o" as in "no" /noʊ/, but without the /ʊ/ at the end.
+   * **Letters:** au, eau, o, ô
+   * **Examples:** beau, nôtre
    * ![french /o/ sound](./french-o-sound.png)
 
 Rounded vowels:
 
 4. [close front rounded vowel](https://en.wikipedia.org/wiki/Close_front_rounded_vowel) - /y/
-   * Start with /i/, round lips and let tongue naturally move back a bit.
+   * Start with /i/ ("ee" as in "see"), round lips and let tongue naturally move back a bit.
    * **Letters:** u
    * **Examples:** tu, salut
 5. œ - [open-mid front rounded vowel](https://en.wikipedia.org/wiki/Open-mid_front_rounded_vowel)
@@ -56,7 +59,26 @@ Nasal vowels:
 9. open-mid front unrounded nasal vowel - /ɛ̃/
 10. open-mid back rounded nasal vowel - /ɔ̃/
 
-Additionally, the French /u/ is a little more back and rounded than English /u/. This sound is produced by "ou" for example in "nous" and "bonjour".
+
+Other vowels in French which are in English include:
+
+* /ɛ/
+   * **English:** "e" as in "bet"
+   * **Letters:** ai
+   * **Examples:** j’aime, chaise
+* /i/
+   * **English:** "ee" as in "see"
+   * **Letters:** i, y
+   * **Examples:** merci, il y a
+* /j/
+   * **English:** "y" as in "yes"
+   * **Letters:** i + vowel
+   * **Examples:** étudiant, bière
+* /u/
+   * **English:** "oo" as in "moo"
+   * **Letters:** ou
+   * **Examples:** nous, bonjour
+   * **Note:** The French /u/ is a little more back and rounded than English /u/.
 
 Lastly, the below picture is a comparison of French and English vowels.
 
