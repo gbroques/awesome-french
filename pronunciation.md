@@ -38,6 +38,8 @@ Rounded vowels:
 
 4. [close front rounded vowel](https://en.wikipedia.org/wiki/Close_front_rounded_vowel) - /y/
    * Start with /i/, round lips and let tongue naturally move back a bit.
+   * **Letters:** u
+   * **Examples:** tu, salut
 5. œ - [open-mid front rounded vowel](https://en.wikipedia.org/wiki/Open-mid_front_rounded_vowel)
    * Start with "bet" /bɛt/, round lips and let tongue naturally move back a bit.
 6. [open-mid back rounded vowel](https://en.wikipedia.org/wiki/Open-mid_back_rounded_vowel) - /ɔ/
@@ -45,6 +47,8 @@ Rounded vowels:
    * Alternatively, start with "uh", round lips and let tongue naturally move back a bit.
 7. [close-mid front rounded vowel](https://en.wikipedia.org/wiki/Close-mid_front_rounded_vowel) - /ø/
    * Start with "pit" /pɪt/, round lips and let tongue naturally move back a bit.
+   * **Letters:** eu, œu
+   * **Examples:** peut, vœux
 
 Nasal vowels:
 
@@ -52,7 +56,7 @@ Nasal vowels:
 9. open-mid front unrounded nasal vowel - /ɛ̃/
 10. open-mid back rounded nasal vowel - /ɔ̃/
 
-Additionally, the French /u/ is a little more back and rounded than English /u/.
+Additionally, the French /u/ is a little more back and rounded than English /u/. This sound is produced by "ou" for example in "nous" and "bonjour".
 
 Lastly, the below picture is a comparison of French and English vowels.
 
