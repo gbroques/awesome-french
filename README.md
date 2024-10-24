@@ -19,6 +19,7 @@ A curated repository of resources for learning French.
 
 * [Language Transfer: French](https://www.languagetransfer.org/french) - Free audio course for beginners using the '*thinking method*' — a question and answer format based on the [socratic method](https://en.wikipedia.org/wiki/Socratic_method).
 * [Oh, la Frenchie! podcast](https://podcasters.spotify.com/pod/show/oh-la-frenchie)
+* [Coffee Break French](https://coffeebreaklanguages.com/category/coffee-break-french/)
 * [11 French Podcasts for Kids](https://efba.us/blog/11-french-podcasts-for-kids/)
 
 ## Audio + Text
