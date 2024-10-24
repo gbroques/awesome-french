@@ -81,6 +81,10 @@ Other vowels in French which are in English include:
    * **Letters:** ou
    * **Examples:** nous, bonjour
    * **Note:** The French /u/ is a little more back and rounded than English /u/.
+* schwa /ə/
+   * **English:** the, about
+   * **Letters:** e when other rules don't apply. (not followed by two consonants, an i, not in a 3 letter word ending with -es, not -er, -ez, or -et)
+   * **Examples:** petit, le, regarde
 
 Lastly, the below picture is a comparison of French and English vowels.
 
