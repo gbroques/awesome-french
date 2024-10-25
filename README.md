@@ -15,6 +15,7 @@ The below emojis denote the following:
 In French:
 
 * 💬🇫🇷🇬🇧 [Easy French](https://www.youtube.com/@easyfrench)
+* 💬🇫🇷🇬🇧 [Super Easy French](https://www.youtube.com/playlist?list=PLA5UIoabheFMChKPAUUNNEOd7BobVJVoQ)
 * 💬🇫🇷🇬🇧 [French Comprehensible Input](https://www.youtube.com/@FrenchComprehensibleInput)
 * 💬🇫🇷🇬🇧 [French Facile](https://www.youtube.com/@FrenchFacile12)
 * 💬🇫🇷🇬🇧 [French mornings with Elisa](https://www.youtube.com/@FrenchmorningswithElisa)
