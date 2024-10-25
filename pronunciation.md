@@ -115,9 +115,13 @@ Lastly, the below picture is a comparison of French and English vowels.
 * [Coffee Break French - A guide to liaisons in French](https://coffeebreaklanguages.com/2024/07/a-guide-to-liaisons-in-french/)
 * [Coffee Break French - French liaison rules: when not to make the liaison](https://coffeebreaklanguages.com/2024/07/french-liaison-rules-when-not-to-make-the-liaison/)
 * [French Pronunciation Course Playlist](https://www.youtube.com/playlist?list=PL_bt5rj27IIURNkDOqtNfyM9JclJPdwsh)
+* [French Pronunciation Practice (with a REAL French speaker)](https://www.youtube.com/watch?v=JH6Y6YBqSFw)
 
 ## Articles
 
 * [French phonology](https://en.wikipedia.org/wiki/French_phonology)
 * [Duolingo Blog: How to Pronounce French](https://blog.duolingo.com/how-to-pronounce-french/)
 
+## Products
+
+* [Les 500 Exercices de Phonétique](https://www.hachettefle.com/collections/les-500-exercices-de-phonetique)
