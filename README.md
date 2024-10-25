@@ -6,20 +6,32 @@ A curated repository of resources for learning French.
 
 ## Video
 
-* [Easy French](https://www.youtube.com/@easyfrench)
-* [Learn French With Stories](https://www.youtube.com/@Maintenant_ou_jamais)
-* [French Comprehensible Input](https://www.youtube.com/@FrenchComprehensibleInput)
-* [French Facile](https://www.youtube.com/@FrenchFacile12)
-* [French mornings with Elisa](https://www.youtube.com/@FrenchmorningswithElisa)
+The below emojis denote the following:
+
+* 💬🇫🇷 - French subtitles
+* 💬🇬🇧 - English subtitles
+* 💬🇫🇷🇬🇧 - French & English subtitles
+
+In French:
+
+* 💬🇫🇷🇬🇧 [Easy French](https://www.youtube.com/@easyfrench)
+* 💬🇫🇷🇬🇧 [French Comprehensible Input](https://www.youtube.com/@FrenchComprehensibleInput)
+* 💬🇫🇷🇬🇧 [French Facile](https://www.youtube.com/@FrenchFacile12)
+* 💬🇫🇷🇬🇧 [French mornings with Elisa](https://www.youtube.com/@FrenchmorningswithElisa)
+* 💬🇫🇷 [Learn French With Stories](https://www.youtube.com/@Maintenant_ou_jamais)
+* 💬🇫🇷 [Français Authentique](https://www.youtube.com/@francaisauthentique)
+* 💬🇫🇷 [Parlez-vous FRENCH](https://www.youtube.com/@parlezvousfrench)
+* 💬🇫🇷 [Francais avec Pierre](https://www.youtube.com/@francaisavecpierre)
+* 💬🇫🇷 [alice ayel](https://www.youtube.com/@aliceayel)
+
+In English:
 * [French pronunciation with Nastya](https://www.youtube.com/@french.pronunciation)
-* [FluentU French](https://www.youtube.com/@fluentufrench)
-* [Français Authentique](https://www.youtube.com/@francaisauthentique)
-* [Treehouse Direct Français](https://www.youtube.com/channel/UCsi-_xGuc5S9Efh0D1jjvwA)
 * [Learn French With Alexa](https://www.youtube.com/@learnfrenchwithalexa)
-* [podcast francais facile](https://www.youtube.com/@podcast_francais_facile)
-* [Parlez-vous FRENCH](https://www.youtube.com/@parlezvousfrench)
-* [Francais avec Pierre](https://www.youtube.com/@francaisavecpierre)
-* [alice ayel](https://www.youtube.com/@aliceayel)
+* [FluentU French](https://www.youtube.com/@fluentufrench)
+
+Kids:
+
+* [Treehouse Direct Français](https://www.youtube.com/channel/UCsi-_xGuc5S9Efh0D1jjvwA)
 
 Other lists:
 
