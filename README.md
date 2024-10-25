@@ -73,6 +73,7 @@ Other lists:
 
 * [UMontrealX: Français élémentaire 1](https://www.edx.org/learn/language/universite-de-montreal-francais-elementaire-1)
 * [French in Action](https://www.learner.org/series/french-in-action/)
+* [Étudier en France: French Intermediate course B1-B2](https://www.coursera.org/learn/etudier-en-france)
 
 ## Keyboard Layouts
 
