@@ -50,6 +50,7 @@ Other lists:
 
 ## Audio + Text
 * [InnerFrench podcast](https://innerfrench.com/podcast/) - Intermediate podcast in French with transcripts available after creating a free account.
+* [Duolingo French Podcast](https://podcast.duolingo.com/french)
 * [Litteratureaudio.com](https://www.litteratureaudio.com/) - free audio books from Des Livres à Lire et à Entendre, a non-profit association whose aim is to facilitate access to the joys of literature for everyone, particularly the blind and partially sighted.
 
 ## Websites
