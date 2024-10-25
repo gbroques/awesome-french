@@ -52,6 +52,7 @@ Other lists:
 * [LanguaTalk Slow French](https://languatalk.com/blog/podcast/french) - Includes interactive transcripts and vocabulary lists.
 * [InnerFrench podcast](https://innerfrench.com/podcast/) - Intermediate podcast in French with transcripts available after creating a free account.
 * [Français Authentique podcast](https://www.francaisauthentique.com/podcasts/)
+* [Balades podcast](https://www.dropbox.com/sh/2hmza3ye9rwmtln/AAArk-R7FnCuuVzjwoqm6kn1a?dl=0)
 * [Duolingo French Podcast](https://podcast.duolingo.com/french)
 * [France Bienvenue](https://francebienvenue1.fr/) - Learn French with real conversations, transcription, and explanation.
 * [Litteratureaudio.com](https://www.litteratureaudio.com/) - free audio books from Des Livres à Lire et à Entendre, a non-profit association whose aim is to facilitate access to the joys of literature for everyone, particularly the blind and partially sighted.
