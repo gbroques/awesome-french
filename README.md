@@ -49,6 +49,7 @@ Other lists:
 * [11 French Podcasts for Kids](https://efba.us/blog/11-french-podcasts-for-kids/)
 
 ## Audio + Text
+* [LanguaTalk Slow French](https://languatalk.com/blog/podcast/french) - Includes interactive transcripts and vocabulary lists.
 * [InnerFrench podcast](https://innerfrench.com/podcast/) - Intermediate podcast in French with transcripts available after creating a free account.
 * [Duolingo French Podcast](https://podcast.duolingo.com/french)
 * [Litteratureaudio.com](https://www.litteratureaudio.com/) - free audio books from Des Livres à Lire et à Entendre, a non-profit association whose aim is to facilitate access to the joys of literature for everyone, particularly the blind and partially sighted.
