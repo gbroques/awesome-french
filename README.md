@@ -19,6 +19,7 @@ In French:
 * 💬🇫🇷🇬🇧 [French Comprehensible Input](https://www.youtube.com/@FrenchComprehensibleInput)
 * 💬🇫🇷🇬🇧 [French Facile](https://www.youtube.com/@FrenchFacile12)
 * 💬🇫🇷🇬🇧 [French mornings with Elisa](https://www.youtube.com/@FrenchmorningswithElisa)
+* 💬🇫🇷🇬🇧 [Piece of French](https://www.youtube.com/@pieceoffrench)
 * 💬🇫🇷 [Learn French With Stories](https://www.youtube.com/@Maintenant_ou_jamais)
 * 💬🇫🇷 [Français Authentique](https://www.youtube.com/@francaisauthentique)
 * 💬🇫🇷 [Parlez-vous FRENCH](https://www.youtube.com/@parlezvousfrench)
