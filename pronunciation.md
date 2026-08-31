@@ -125,3 +125,4 @@ Lastly, the below picture is a comparison of French and English vowels.
 ## Products
 
 * [Les 500 Exercices de Phonétique](https://www.hachettefle.com/collections/les-500-exercices-de-phonetique)
+* [Spokira](https://spokira.com/french-pronunciation-app) - Browser-based speaking practice for A2-B1 learners with shadowing exercises and phoneme-level pronunciation feedback.
