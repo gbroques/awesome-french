@@ -53,6 +53,7 @@ Other lists:
 ## Audio + Text
 * [LanguaTalk Slow French](https://languatalk.com/blog/podcast/french) - Includes interactive transcripts and vocabulary lists.
 * [InnerFrench podcast](https://innerfrench.com/podcast/) - Intermediate podcast in French with transcripts available after creating a free account.
+* [French with Amélie](https://frenchwithamelie.com/) - Intermediate (B1+) dialogues in real spoken French with audio, transcripts and English translations. One free dialogue a week.
 * [Français Authentique podcast](https://www.francaisauthentique.com/podcasts/)
 * [Balades podcast](https://www.dropbox.com/sh/2hmza3ye9rwmtln/AAArk-R7FnCuuVzjwoqm6kn1a?dl=0)
 * [Duolingo French Podcast](https://podcast.duolingo.com/french)
