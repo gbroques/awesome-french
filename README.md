@@ -58,6 +58,7 @@ Other lists:
 * [Duolingo French Podcast](https://podcast.duolingo.com/french)
 * [France Bienvenue](https://francebienvenue1.fr/) - Learn French with real conversations, transcription, and explanation.
 * [Litteratureaudio.com](https://www.litteratureaudio.com/) - free audio books from Des Livres à Lire et à Entendre, a non-profit association whose aim is to facilitate access to the joys of literature for everyone, particularly the blind and partially sighted.
+* [Language through Literature — French room](https://languagethroughliterature.com/french) - Perrault's tales and Daudet's stories in the original, every word glossed on tap with the sentence in English, every line read aloud; Daudet's «La Dernière classe» free without an account.
 
 ## Websites
 
