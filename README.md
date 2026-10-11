@@ -71,6 +71,7 @@ Other lists:
 * [podcast francais facile](https://www.podcastfrancaisfacile.com/)
 * [Pokelingo](https://pokelingo.io/en/riddle/?lang=fr) - Daily Pokédex reading riddle: read an entry in French and guess the Pokémon in five tries.
 * [OwnSlides](https://ownslides.com/) - Speaking practice with an AI tutor and blind-matched voice calls with other learners, with pronunciation scored word by word.
+* [Objectif NCLC](https://vread-corp.github.io/tcf-canada-entrainement/en/) - Free, unofficial TCF Canada speaking and writing practice pack: task formats, 42 original prompts and NCLC self-assessment grids (PDF, CC BY 4.0, no sign-up).
 
 ## Courses
 
