@@ -121,6 +121,7 @@ Lastly, the below picture is a comparison of French and English vowels.
 
 * [French phonology](https://en.wikipedia.org/wiki/French_phonology)
 * [Duolingo Blog: How to Pronounce French](https://blog.duolingo.com/how-to-pronounce-french/)
+* [Tableau des 35 sons français](https://getparle.app/resources/tableau-35-sons-francais/) - Free French sound reference with IPA, spelling patterns, audio links, printable CC BY 4.0 teacher materials and linked beginner reply practice guided in English.
 
 ## Products
 
