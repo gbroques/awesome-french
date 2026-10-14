@@ -71,6 +71,7 @@ Other lists:
 * [podcast francais facile](https://www.podcastfrancaisfacile.com/)
 * [Pokelingo](https://pokelingo.io/en/riddle/?lang=fr) - Daily Pokédex reading riddle: read an entry in French and guess the Pokémon in five tries.
 * [OwnSlides](https://ownslides.com/) - Speaking practice with an AI tutor and blind-matched voice calls with other learners, with pronunciation scored word by word.
+* [MeloLingua French stories](https://melolingua.com/learn-french) - Free graded French stories from A1 to B2 with audio, tap-to-translate and comprehension questions.
 
 ## Courses
 
