@@ -58,6 +58,7 @@ Other lists:
 * [Duolingo French Podcast](https://podcast.duolingo.com/french)
 * [France Bienvenue](https://francebienvenue1.fr/) - Learn French with real conversations, transcription, and explanation.
 * [Litteratureaudio.com](https://www.litteratureaudio.com/) - free audio books from Des Livres à Lire et à Entendre, a non-profit association whose aim is to facilitate access to the joys of literature for everyone, particularly the blind and partially sighted.
+* [Bibooks](https://bibooks.org/languages/french) - Free bilingual read-along audiobooks with sentence-by-sentence parallel text and word-highlighted audio.
 
 ## Websites
 
