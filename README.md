@@ -71,6 +71,7 @@ Other lists:
 * [podcast francais facile](https://www.podcastfrancaisfacile.com/)
 * [Pokelingo](https://pokelingo.io/en/riddle/?lang=fr) - Daily Pokédex reading riddle: read an entry in French and guess the Pokémon in five tries.
 * [OwnSlides](https://ownslides.com/) - Speaking practice with an AI tutor and blind-matched voice calls with other learners, with pronunciation scored word by word.
+* [French4PR](https://french4pr.com) - Directory of French tests and schools for Canadian PR, with free TEF and TCF score to NCLC converters.
 
 ## Courses
 
