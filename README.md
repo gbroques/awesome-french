@@ -71,6 +71,7 @@ Other lists:
 * [podcast francais facile](https://www.podcastfrancaisfacile.com/)
 * [Pokelingo](https://pokelingo.io/en/riddle/?lang=fr) - Daily Pokédex reading riddle: read an entry in French and guess the Pokémon in five tries.
 * [OwnSlides](https://ownslides.com/) - Speaking practice with an AI tutor and blind-matched voice calls with other learners, with pronunciation scored word by word.
+* [While Drinking Coffee](https://whiledrinkingcoffee.com/en/fr/home/) - Free weekly issues for beginners: short pronunciation and phrase lessons, an easy story with a new chapter each week, exercises and crosswords. Tap any word to save it to your vocabulary. Also covers Spanish.
 
 ## Courses
 
