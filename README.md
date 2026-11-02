@@ -63,6 +63,7 @@ Other lists:
 
 * [Lawless French](https://www.lawlessfrench.com/) - French lessons and language tools from Laura K Lawless.
 * [Tex's French Grammar](https://www.laits.utexas.edu/tex/index.html)
+* [LingoGrove](https://lingogrove.com/) - Plain-English French and Spanish grammar, conjugations, and loanword explainers.
 * [francaisfacile.com](https://www.francaisfacile.com/)
 * [dicteeinteractive.fr](https://www.dicteeinteractive.fr/)
 * [Lingolia French](https://francais.lingolia.com/en/)
