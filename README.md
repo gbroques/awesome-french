@@ -71,6 +71,7 @@ Other lists:
 * [podcast francais facile](https://www.podcastfrancaisfacile.com/)
 * [Pokelingo](https://pokelingo.io/en/riddle/?lang=fr) - Daily Pokédex reading riddle: read an entry in French and guess the Pokémon in five tries.
 * [OwnSlides](https://ownslides.com/) - Speaking practice with an AI tutor and blind-matched voice calls with other learners, with pronunciation scored word by word.
+* [GetYouTubeTranscript](https://getyoutubetranscript.com) - Shows the French transcript of any captioned YouTube video (such as the channels above) so you can read along and copy or download the text. Also a Chrome extension.
 
 ## Courses
 
